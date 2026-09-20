@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c3f66"/><stop offset="1" stop-color="#f4a259"/></linearGradient><linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b5e7a"/><stop offset="1" stop-color="#0d2f45"/></linearGradient></defs>
+<rect width="900" height="360" fill="url(#sky)"/>
+<circle cx="640" cy="210" r="46" fill="#ffe08a" opacity="0.95"/>
+<circle cx="640" cy="210" r="70" fill="#ffe08a" opacity="0.25"/>
+<g fill="#ffffff" opacity="0.9"><circle cx="90" cy="40" r="2"/><circle cx="210" cy="70" r="1.6"/><circle cx="330" cy="30" r="2"/><circle cx="420" cy="80" r="1.5"/><circle cx="520" cy="44" r="2"/><circle cx="780" cy="60" r="1.8"/><circle cx="850" cy="110" r="1.5"/></g>
+<rect y="235" width="900" height="125" fill="url(#sea)"/>
+<g stroke="#ffe08a" stroke-width="3" opacity="0.55"><line x1="600" y1="245" x2="680" y2="245"/><line x1="610" y1="256" x2="672" y2="256"/><line x1="620" y1="268" x2="662" y2="268"/></g>
+<path d="M0 300 Q150 250 320 290 T640 300 T900 285 L900 360 L0 360 Z" fill="#0b2233"/>
+<path d="M0 330 Q200 300 420 325 T900 320 L900 360 L0 360 Z" fill="#081a28"/>
+<path d="M150 250 Q160 300 110 360 L230 360 Q190 300 150 250 Z" fill="#3b2a1f" opacity="0.0"/>
+<polygon points="200,112.5 725.0,31.25 725.0,181.25" fill="#fff3b0" opacity="0.35"/>
+<polygon points="200,112.5 -325.0,31.25 -325.0,181.25" fill="#fff3b0" opacity="0.25"/>
+<polygon points="167.5,300 232.5,300 220.0,137.5 180.0,137.5" fill="#f7f1e3"/>
+<polygon points="175.0,165.0 225.0,165.0 223.75,187.5 176.25,187.5" fill="#d1604f" opacity="0.9"/>
+<polygon points="175.0,220.0 225.0,220.0 223.75,242.5 176.25,242.5" fill="#d1604f" opacity="0.9"/>
+<rect x="175.0" y="112.5" width="50.0" height="25.0" fill="#12304a"/>
+<rect x="185.0" y="87.5" width="30.0" height="25.0" fill="#e0a526"/>
+<polygon points="180.0,87.5 220.0,87.5 200,60.0" fill="#12304a"/>
+<path d="M150 300 Q200 285 260 300 L280 340 L120 340 Z" fill="#20331f"/>
+<path d="M0 360 L0 320 Q90 300 150 322 L260 322 Q330 305 420 335 L420 360Z" fill="#1d2b1a"/>
+</svg>

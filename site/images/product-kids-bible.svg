@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9f0f7"/><stop offset="1" stop-color="#a7d8ea"/></linearGradient></defs>
+<rect width="400" height="400" fill="url(#bg)"/><ellipse cx="200" cy="350" rx="130" ry="16" fill="#000000" opacity="0.15"/><rect x="100" y="80" width="200" height="260" rx="14" fill="#f2a541"/><rect x="100" y="80" width="20" height="260" rx="6" fill="#d98a25"/>
+<path d="M140 210 A60 60 0 0 1 260 210" stroke="#d1604f" stroke-width="10" fill="none"/><path d="M152 210 A48 48 0 0 1 248 210" stroke="#e0a526" stroke-width="10" fill="none"/><path d="M164 210 A36 36 0 0 1 236 210" stroke="#2c7a7b" stroke-width="10" fill="none"/><path d="M176 210 A24 24 0 0 1 224 210" stroke="#3a6ea5" stroke-width="10" fill="none"/>
+<path d="M150 260 L250 260 L238 296 L162 296Z" fill="#7a4a2a"/><rect x="198" y="215" width="4" height="45" fill="#5b3a29"/><polygon points="202,218 202,255 234,255" fill="#ffffff"/>
+<circle cx="230" cy="120" r="20" fill="#fff0b0"/><rect x="140" y="112" width="70" height="10" rx="5" fill="#ffffff" opacity="0.9"/>
+</svg>
